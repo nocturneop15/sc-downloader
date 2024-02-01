@@ -150,8 +150,11 @@ namespace SCCDownoader // Note: actual namespace depends on the project name.
 
             }
 
-            Console.WriteLine("Alles dones to je dat coooo!!!!!");
+            /*
+             Console.WriteLine("Alles dones to je dat coooo!!!!!");
             Console.ReadLine();
+            */ //not needed for console operations 
+
         }
 
         static int GetResolution(StreamVideoInfo stream)
